@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:aranmoham@gmail.de'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/AranMoha
+    url: https://github.com/AranMoham
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/aran-mohammad/
   - icon: academicons/google-scholar
