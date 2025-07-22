@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics & Machine-Learning Enginner
+role: Robotics & Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,7 +53,7 @@ education:
     date_start: 2021-03-01
     date_end: ''
     summary: |
-      Thesis on parallel robots for human-robot interaction. Authored five scientific publications, including a best-paper award; co-chaired sessions and presented research at major robotics conferences.
+      Thesis on parallel robots for human-robot interaction. Authored six scientific publications, including a best-paper award; co-chaired sessions and presented research at major robotics conferences.
     button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
@@ -184,7 +184,7 @@ work:
 
 ## About Me
 
-I am a robotics and machine-learning engineer working at [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/), Leibniz University Hannover.
+I am a robotics and machine learning engineer working at [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/), Leibniz University Hannover.
 
 My fascination with modeling and controlling technical systems to create meaningful impact has driven me since my undergraduate studies - and continues to guide my professional journey. This motivation has deepened my curiosity and led me to develop [open-source](https://aranmoha.github.io/SafePR/) methods for perception and reactive safety strategies in robotic systems, focusing on real-time modeling and interaction control. The following video shows the motivation and achievements of my research:
 {{< video src="safepr.mp4" controls="yes" >}}
