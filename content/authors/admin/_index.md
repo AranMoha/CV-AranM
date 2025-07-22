@@ -48,7 +48,7 @@ interests:
   - Modeling
 
 education:
-  - area: Dr.-Ing. in Robotics & Machine Learning
+  - area: Ph.D. candidate in Mechanical Engineering
     institution: Leibniz University Hannover
     date_start: 2021-03-01
     date_end: ''
@@ -57,13 +57,13 @@ education:
     button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
-  - area: MSc in Mechanical Engineering
+  - area: M.Sc. in Mechanical Engineering
     institution: Leibniz University Hannover
     date_start: 2017-10-01
     date_end: 2020-12-01
     summary: |     
       Majors: *Modeling and Control of Mechatronic Systems*
-  - area: BSc in Mechanical Engineering
+  - area: B.Sc. in Mechanical Engineering
     institution: Leibniz University Hannover
     date_start: 2014-04-01
     date_end: 2017-09-30
