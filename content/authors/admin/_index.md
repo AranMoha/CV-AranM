@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics & Machine-Learning Engineer
+role: Modeling & Control Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -184,7 +184,7 @@ work:
 
 ## About Me
 
-I am a robotics and machine-learning engineer working at the [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/), Leibniz University Hannover.
+I am a modeling and control engineer working at the [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/), Leibniz University Hannover.
 
 My fascination with modeling and controlling technical systems to create meaningful impact has driven me since my undergraduate studies - and continues to guide my professional journey. This motivation has deepened my curiosity and led me to develop [open-source](https://aranmoha.github.io/SafePR/) methods for perception and reactive safety strategies in robotic systems, focusing on real-time modeling and interaction control. The following video shows the motivation and achievements of my research:
 {{< video src="safepr.mp4" controls="yes" >}}
